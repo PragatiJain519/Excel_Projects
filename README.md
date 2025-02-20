@@ -46,6 +46,7 @@ Total revenue: 15263601.45
 
 transaction premotion: 52%
 
+![Screenshot 2025-02-20 122952](https://github.com/user-attachments/assets/7695d975-40cd-46fc-b147-559bf0811853)
 
 
 
